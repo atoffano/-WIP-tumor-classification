@@ -9,9 +9,9 @@ This dataset is made of two files, one that contains the gene expressions (20531
 
 Outline:
 * Run the k-means algorithm, and compare the resulting classificaiton to the Cancer labels through a confusion matrix.
-* Run the k-means on the first n components/axis of the outputs of PCA.
+* Run the k-means on the first n components/axis of the outputs of a PCA.
 * Run the GMM algorithm, and compare the resulting classification to the Cancer labels using a confusion matrix.
-* Run the GMM algorithm on the first n components/axis of the outputs of PCA.
+* Run the GMM algorithm on the first n components/axis of the outputs of a PCA.
 * Do at all over agains, but with MDS.
 
 
